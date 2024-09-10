@@ -1,0 +1,6 @@
+meat, baby beef, beef, buffalo meat, camel meat, chilled meat, deboned meat, DFD meat, game meat, goat meat, horse meat, lamb meat, meat cuts, mutton, pork, poultry meat, PSE meat, rabbit meat, red meat, veal
+cattle, banteng, beef cattle, bullocks, bulls, calves, cows, dairy cattle, heifers, yearling bulls, zebu
+iot, internet of things
+rfid, radio frequency identification, radiofrequency identification, radio frequency identification (rfid), radio-frequency-technology (rfid), radio-frequency identification, radio-frequency identification (rfid)
+machine learning, machine, learning
+technology adoption, technology, adoption
